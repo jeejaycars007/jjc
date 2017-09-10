@@ -11,7 +11,7 @@
       ]
     },
     "versionFirst": "4.2.3",
-    "uniqCompNum": 12,
+    "uniqCompNum": 31,
     "versionPublish": "4.2.4"
   },
   "pages": {
@@ -36,8 +36,8 @@
             "bgColor": "#4c6972",
             "images": [
               {
-                "image": "@PROJECT_PATH@/assets/images/img-20170820-125158-2000x1502.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20170820-125158-2000x1502-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170907-wa0058-1280x720.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170907-wa0058-1280x720-800x450.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": true
@@ -63,7 +63,7 @@
             "showMeta": true
           },
           "title": "DROP-DEAD EASY WEBSITE MAKER",
-          "meta": "<br>Make Model Variant Make Year Make Month No. of Owners Mileage \n<br>62000\n<br>Regulatory Information\n<br>Registration Place Plate :<br>velachery\n<br>Insurance Type Insurance Year Insurance Month One Time Tax\n<br> Individual    Corporate Price and Warranty\n<br>Price \n<br>269000\n<br> Fixed  \n<br> Exchange Accepted\n<br>Warranty type  Is the Car Certified?  Is Car Accidental?  Is Car Flood Affected? Description \n<br>pls call 99625.97179&nbsp;<br>",
+          "meta": "<br>Make:renault<br>Mode: pluse<br>Varient:RXL&nbsp;<br>Year:2012<br>Month:june<br>Kms:41000<br>Fuel:diesel<br>Number of owners:one<br>Color:silver<br>Transmission type:manual<br>Registration place:chennai<br>Price:349000<br><br><br>",
           "_tags": [
             "Theme"
           ],
@@ -185,6 +185,460 @@
               "color": "#27aae0"
             }
           }
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "DROP-DEAD EASY WEBSITE MAKER",
+          "meta": "<br>Make:renault<br>Mode: pluse<br>Varient:RXZ&nbsp;<br>Year:2012<br>Month:june<br>Kms:41000<br>Fuel:diesel<br>Number of owners:one<br>Color:silver<br>Transmission type:manual<br>Registration place:chennai<br>Price:349000<br><br><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-c"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "DROP-DEAD EASY WEBSITE MAKER",
+          "meta": "<br>Make:renault<br>Mode: pluse<br>Varient:RXZ&nbsp;<br>Year:2012<br>Month:june<br>Kms:41000<br>Fuel:diesel<br>Number of owners:one<br>Color:silver<br>Transmission type:manual<br>Registration place:chennai<br>Price:349000<br><br><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-d"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "DROP-DEAD EASY WEBSITE MAKER",
+          "meta": "<br>Make:renault<br>Mode: pluse<br>Varient:RXZ&nbsp;<br>Year:2012<br>Month:june<br>Kms:41000<br>Fuel:diesel<br>Number of owners:one<br>Color:silver<br>Transmission type:manual<br>Registration place:chennai<br>Price:349000<br><br><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-e"
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "title": "Page 1",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 1
+      },
+      "components": [
+        {
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": true,
+            "showText": false,
+            "showBullets": true,
+            "bgColor": "#4c6972",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20170907-wa0058-1280x720.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170907-wa0058-1280x720-800x450.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20170828-115849-2000x1502.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170828-115849-2000x1502-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-f"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "DROP-DEAD EASY WEBSITE MAKER",
+          "meta": "<br>Make:renault<br>Mode: pluse<br>Varient:RXZ&nbsp;<br>Year:2012<br>Month:june<br>Kms:41000<br>Fuel:diesel<br>Number of owners:one<br>Color:silver<br>Transmission type:manual<br>Registration place:chennai<br>Price:349000<br><br><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-g"
+        },
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#ffffff",
+            "hamburgerColor": "#2c82c9"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"https://play.google.com/store/apps/details?id=com.wJeeJayCars\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD APP</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#2c82c9"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"https://jeejaycars.github.io/jjc/index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">CARS IN STOCK</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"https://jeejaycars.github.io/jjc/page1.html\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"https://jeejaycars.github.io/jjc/Contact%20Us.html\">CONTACT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"https://jeejaycars.github.io/jjc/finance.html\">FINANCE</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/jee-jay-cars-128x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "WebSoft",
+              "link": "https://www.wspl.online/",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-h"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Powered By: Web Soft Private Limited™ , Tiruchengode (09842573025) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Visit us: <a href=\"http://www.wspl.online/\">www.wspl.online</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-i"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/jee-jay-cars-128x128.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "https://www.wspl.online/",
+              "alt": "WebSoft",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><br>OLD ON 81 NEW NO 208, \n<br>VELACHERY , GANDHI ROAD BUS STOP , CHENNAI-600042. \n<br>TAMILNADU (State), \n<br>INDIA<br>",
+          "text2": "<strong>CONTACTS</strong><br>Email: Jeejaycars@gmail.com\n<br>Hotline: 9841097179\n<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;9962597179\n<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;9962497179\n<br>Telephone: 04422551380<br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://jeejaycars.github.io/jjc/\">Home</a></li><li><a href=\"https://jeejaycars007.github.io/jjc/CarsInStock.html\">Cars in Stock</a>\n</li><li><a href=\"https://jeejaycars.github.io/jjc/page1.html\">About Us</a>\n</li><li><a href=\"https://jeejaycars.github.io/jjc/Contact%20Us.html\">Contact Us</a>\n</li><li><a href=\"https://jeejaycars.github.io/jjc/finance.html\">Finance</a></li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#27aae0"
+            }
+          },
+          "_anchor": "contacts1-j"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "DROP-DEAD EASY WEBSITE MAKER",
+          "meta": "<br>Make:renault<br>Mode: pluse<br>Varient:RXZ&nbsp;<br>Year:2012<br>Month:june<br>Kms:41000<br>Fuel:diesel<br>Number of owners:one<br>Color:silver<br>Transmission type:manual<br>Registration place:chennai<br>Price:349000<br><br><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-k"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "DROP-DEAD EASY WEBSITE MAKER",
+          "meta": "<br>Make:renault<br>Mode: pluse<br>Varient:RXZ&nbsp;<br>Year:2012<br>Month:june<br>Kms:41000<br>Fuel:diesel<br>Number of owners:one<br>Color:silver<br>Transmission type:manual<br>Registration place:chennai<br>Price:349000<br><br><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-l"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "DROP-DEAD EASY WEBSITE MAKER",
+          "meta": "<br>Make:renault<br>Mode: pluse<br>Varient:RXZ&nbsp;<br>Year:2012<br>Month:june<br>Kms:41000<br>Fuel:diesel<br>Number of owners:one<br>Color:silver<br>Transmission type:manual<br>Registration place:chennai<br>Price:349000<br><br><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-m"
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "title": "Page 2",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 2
+      },
+      "components": [
+        {
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": true,
+            "showText": false,
+            "showBullets": true,
+            "bgColor": "#4c6972",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20170907-wa0058-1280x720.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170907-wa0058-1280x720-800x450.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20170828-115849-2000x1502.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170828-115849-2000x1502-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-n"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "DROP-DEAD EASY WEBSITE MAKER",
+          "meta": "<br>Make:renault<br>Mode: pluse<br>Varient:RXZ&nbsp;<br>Year:2012<br>Month:june<br>Kms:41000<br>Fuel:diesel<br>Number of owners:one<br>Color:silver<br>Transmission type:manual<br>Registration place:chennai<br>Price:349000<br><br><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-o"
+        },
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#ffffff",
+            "hamburgerColor": "#2c82c9"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"https://play.google.com/store/apps/details?id=com.wJeeJayCars\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD APP</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#2c82c9"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"https://jeejaycars.github.io/jjc/index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">CARS IN STOCK</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"https://jeejaycars.github.io/jjc/page1.html\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"https://jeejaycars.github.io/jjc/Contact%20Us.html\">CONTACT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"https://jeejaycars.github.io/jjc/finance.html\">FINANCE</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/jee-jay-cars-128x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "WebSoft",
+              "link": "https://www.wspl.online/",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-p"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Powered By: Web Soft Private Limited™ , Tiruchengode (09842573025) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Visit us: <a href=\"http://www.wspl.online/\">www.wspl.online</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-q"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/jee-jay-cars-128x128.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "https://www.wspl.online/",
+              "alt": "WebSoft",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><br>OLD ON 81 NEW NO 208, \n<br>VELACHERY , GANDHI ROAD BUS STOP , CHENNAI-600042. \n<br>TAMILNADU (State), \n<br>INDIA<br>",
+          "text2": "<strong>CONTACTS</strong><br>Email: Jeejaycars@gmail.com\n<br>Hotline: 9841097179\n<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;9962597179\n<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;9962497179\n<br>Telephone: 04422551380<br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://jeejaycars.github.io/jjc/\">Home</a></li><li><a href=\"https://jeejaycars007.github.io/jjc/CarsInStock.html\">Cars in Stock</a>\n</li><li><a href=\"https://jeejaycars.github.io/jjc/page1.html\">About Us</a>\n</li><li><a href=\"https://jeejaycars.github.io/jjc/Contact%20Us.html\">Contact Us</a>\n</li><li><a href=\"https://jeejaycars.github.io/jjc/finance.html\">Finance</a></li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#27aae0"
+            }
+          },
+          "_anchor": "contacts1-r"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "DROP-DEAD EASY WEBSITE MAKER",
+          "meta": "<br>Make:renault<br>Mode: pluse<br>Varient:RXZ&nbsp;<br>Year:2012<br>Month:june<br>Kms:41000<br>Fuel:diesel<br>Number of owners:one<br>Color:silver<br>Transmission type:manual<br>Registration place:chennai<br>Price:349000<br><br><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-s"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "DROP-DEAD EASY WEBSITE MAKER",
+          "meta": "<br>Make:renault<br>Mode: pluse<br>Varient:RXZ&nbsp;<br>Year:2012<br>Month:june<br>Kms:41000<br>Fuel:diesel<br>Number of owners:one<br>Color:silver<br>Transmission type:manual<br>Registration place:chennai<br>Price:349000<br><br><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-t"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "DROP-DEAD EASY WEBSITE MAKER",
+          "meta": "<br>Make:renault<br>Mode: pluse<br>Varient:RXZ&nbsp;<br>Year:2012<br>Month:june<br>Kms:41000<br>Fuel:diesel<br>Number of owners:one<br>Color:silver<br>Transmission type:manual<br>Registration place:chennai<br>Price:349000<br><br><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-u"
         }
       ]
     }
