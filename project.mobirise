@@ -11,7 +11,7 @@
       ]
     },
     "versionFirst": "4.2.3",
-    "uniqCompNum": 11,
+    "uniqCompNum": 12,
     "versionPublish": "4.2.4"
   },
   "pages": {
@@ -25,6 +25,51 @@
         "html_before": ""
       },
       "components": [
+        {
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": true,
+            "showText": false,
+            "showBullets": true,
+            "bgColor": "#4c6972",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20170820-125158-2000x1502.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170820-125158-2000x1502-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20170828-115849-2000x1502.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170828-115849-2000x1502-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-9"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "DROP-DEAD EASY WEBSITE MAKER",
+          "meta": "<br>Make Model Variant Make Year Make Month No. of Owners Mileage \n<br>62000\n<br>Regulatory Information\n<br>Registration Place Plate :<br>velachery\n<br>Insurance Type Insurance Year Insurance Month One Time Tax\n<br> Individual    Corporate Price and Warranty\n<br>Price \n<br>269000\n<br> Fixed  \n<br> Exchange Accepted\n<br>Warranty type  Is the Car Certified?  Is Car Accidental?  Is Car Flood Affected? Description \n<br>pls call 99625.97179&nbsp;<br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-b"
+        },
         {
           "_inherit": "menu",
           "_params": {
@@ -85,6 +130,26 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Powered By: Web Soft Private Limited™ , Tiruchengode (09842573025) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Visit us: <a href=\"http://www.wspl.online/\">www.wspl.online</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-2"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
             "bgColor": "#ffffff",
             "overlay": true,
             "overlayColor": "#3C3C3C",
@@ -118,76 +183,6 @@
           "_styles": {
             "P": {
               "color": "#27aae0"
-            }
-          }
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#444444",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Powered By: Web Soft Private Limited™ , Tiruchengode (09842573025) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Visit us: <a href=\"http://www.wspl.online/\">www.wspl.online</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-2"
-        },
-        {
-          "_params": {
-            "fullWidth": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "noGutter": true,
-            "showText": false,
-            "showBullets": true,
-            "bgColor": "#4c6972",
-            "images": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-20170820-125158-2000x1502.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20170820-125158-2000x1502-800x600.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-20170828-115849-2000x1502.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20170828-115849-2000x1502-800x600.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              }
-            ]
-          },
-          "articleLayout": false,
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery1",
-          "_anchor": "gallery1-9"
-        },
-        {
-          "_params": {
-            "showMeta": true
-          },
-          "title": "DROP-DEAD EASYMAKER",
-          "meta": "By John Smith posted July 30, 2015",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-a",
-          "_styles": {
-            "H3": {
-              "text-align": "left"
             }
           }
         }
